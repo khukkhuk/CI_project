@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="vendors/bower_components/filament-tablesaw/demo/issues"/>
+	<buildpathentry kind="lib" path="dist/fonts/material-design-iconic-font.zip"/>
+	<buildpathentry kind="lib" path="dist/img/country/01-flag.zip"/>
+	<buildpathentry kind="lib" path="vendors/bower_components/bootstrap-tagsinput/dist/bootstrap-tagsinput.zip"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
